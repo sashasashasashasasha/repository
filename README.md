@@ -11,6 +11,8 @@
 
 Исходные [данные](https://github.com/sashasashasashasasha/repository/blob/master/Aksakov.csv).
 
+Gephi [визуализация](https://github.com/sashasashasashasasha/repository/blob/master/Aksakov.png).
+
 **Анализ графа**
 
 Средняя степень - **10,857**
